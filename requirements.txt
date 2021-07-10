@@ -59,12 +59,12 @@ pycparser
 pydeck==0.6.2
 Pygments 
 pyparsing 
-pypiwin32
+pypiwin32==228
 pyrsistent 
 python-dateutil 
 pytz==2021.1
 PyWavelets==1.1.1
-pywinpty==0.5.7
+pywinpty
 pyzmq==20.0.0
 requests==2.25.1
 scikit-image==0.18.2
