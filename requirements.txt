@@ -59,7 +59,7 @@ pycparser
 pydeck==0.6.2
 Pygments 
 pyparsing 
-pypiwin32==228
+pypiwin32
 pyrsistent 
 python-dateutil 
 pytz==2021.1
