@@ -15,6 +15,5 @@ For the web application part, I used Streamlit library. I have created a webapp 
 ![image](https://user-images.githubusercontent.com/68452419/132191158-277a2f78-3a80-4b1c-a362-5689c8964456.png)
 
 ### After uploading an image, this is how result show.
-<br>
 ![image](https://user-images.githubusercontent.com/68452419/132191756-f4c85147-7913-4c6b-9c25-34d153c1b8b5.png)
 
