@@ -1,3 +1,4 @@
 streamlit
-requests
 sklearn
+skimage
+Pillow
